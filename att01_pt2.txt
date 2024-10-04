@@ -1,0 +1,36 @@
+.imagem1 {
+    height: 400px;
+    width: auto;
+    float: left;
+}
+
+.imagem2 {
+    height: 400px;
+    width: auto;
+    float: right;
+}
+
+p {
+    font-size: 50px;
+    text-align: center;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo/styleatt01_pt2.css">
+    <title>ATIVIDADE</title>
+</head>
+<body>
+        <img src="imagens/cachorroimagem.jpg" alt="Imagem 1" class="imagem1">
+        
+        <img src="imagens/cachorroimagem.jpg" alt="Imagem 2" class="imagem2">
+
+        <p>Com esta pagina estou mostrando uma forma de colocar um texto entre duas imagens</p>
+    
+</html>
+
+</body>
+</html>
